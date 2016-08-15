@@ -132,6 +132,8 @@ Or, if we distill to pure essence, `DDATWD` - Derived Data All The Way Down.
 *TODO:* get acronym down to 3 chars! Get an image of stacked Turtles for `DDATWD`
 insider's joke, conference T-Shirt.
 
+![turtle](/images/turtles-small.jpg | width=400)
+
 
 ## Guiding Philosophy
 
